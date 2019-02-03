@@ -1,0 +1,20 @@
+# Datatypes (KEYWORD1)
+
+FastPin	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+
+read	KEYWORD2
+isLow	KEYWORD2
+isHigh	KEYWORD2
+waitLow	KEYWORD2
+waitHigh	KEYWORD2
+waitRisingEdge	KEYWORD2
+waitFallingEdge	KEYWORD2
+write	KEYWORD2
+set	KEYWORD2
+clear	KEYWORD2
+pulseHigh	KEYWORD2
+pulseLow	KEYWORD2
+
+# Constants (LITERAL1)
